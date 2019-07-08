@@ -74,3 +74,9 @@ function suites() {
  
  //adding another comment
  
+ function areaoftriangle(b,h){
+    var a = (b*h)/2;
+    console.log(a);
+ };
+ 
+ 

@@ -87,3 +87,6 @@ function deck(){
  };
  
  console.log('Hello git');
+ 
+ 
+deck();

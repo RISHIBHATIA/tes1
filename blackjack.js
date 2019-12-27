@@ -8,6 +8,9 @@ console.log("Player one has" + total1);
 return total1
 }
 
+//Testing this new comment
+
+
 /*
 
 //function player2Hand() {
@@ -77,6 +80,10 @@ function suites() {
  function areaoftriangle(b,h){
     var a = (b*h)/2;
     console.log(a);
+    
+
+function deck(){
+	console.log('hello for a new branch');
  };
  
  console.log('Hello git');
